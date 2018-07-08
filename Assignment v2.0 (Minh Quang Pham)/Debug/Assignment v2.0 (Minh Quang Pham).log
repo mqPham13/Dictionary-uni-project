@@ -1,0 +1,23 @@
+﻿  Word.cpp
+  Dictionary.cpp
+c:\users\mqpham\downloads\assignment v2.2 (minh quang pham)\assignment v2.2 (minh quang pham)\assignment v2.0 (minh quang pham)\dictionary.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\mqpham\downloads\assignment v2.2 (minh quang pham)\assignment v2.2 (minh quang pham)\assignment v2.0 (minh quang pham)\dictionary.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\mqpham\downloads\assignment v2.2 (minh quang pham)\assignment v2.2 (minh quang pham)\assignment v2.0 (minh quang pham)\dictionary.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\mqpham\downloads\assignment v2.2 (minh quang pham)\assignment v2.2 (minh quang pham)\assignment v2.0 (minh quang pham)\dictionary.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\mqpham\downloads\assignment v2.2 (minh quang pham)\assignment v2.2 (minh quang pham)\assignment v2.0 (minh quang pham)\dictionary.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\mqpham\downloads\assignment v2.2 (minh quang pham)\assignment v2.2 (minh quang pham)\assignment v2.0 (minh quang pham)\dictionary.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\mqpham\downloads\assignment v2.2 (minh quang pham)\assignment v2.2 (minh quang pham)\assignment v2.0 (minh quang pham)\dictionary.cpp(172): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  main.cpp
+  Verb.cpp
+  ProperNoun.cpp
+c:\users\mqpham\downloads\assignment v2.2 (minh quang pham)\assignment v2.2 (minh quang pham)\assignment v2.0 (minh quang pham)\propernoun.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  Preposition.cpp
+  Noun.cpp
+  MiscWord.cpp
+  Adverb.cpp
+  Adjective.cpp
+  Generating Code...
+  Assignment v2.0 (Minh Quang Pham).vcxproj -> C:\Users\mqpham\Downloads\Assignment v2.2 (Minh Quang Pham)\Assignment v2.2 (Minh Quang Pham)\Debug\Assignment v2.0 (Minh Quang Pham).exe
+  Assignment v2.0 (Minh Quang Pham).vcxproj -> C:\Users\mqpham\Downloads\Assignment v2.2 (Minh Quang Pham)\Assignment v2.2 (Minh Quang Pham)\Debug\Assignment v2.0 (Minh Quang Pham).pdb (Full PDB)
